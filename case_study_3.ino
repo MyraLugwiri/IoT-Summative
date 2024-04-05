@@ -14,12 +14,12 @@ char pass[] = "123123!45";  // Enter your Wifi password
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
 
-unsigned long myChannelNumber = 2454500; //Your Channel Number (Without Brackets)
-const char * myWriteAPIKey = "ZJM1XJ2T8BR84NYP"; //Your Write API Key
+unsigned long myChannelNumber = ********; //Your Channel Number (Without Brackets)
+const char * myWriteAPIKey = "*********************"; //Your Write API Key
 
 //username and key from the Adafruit IO 
-#define IO_USERNAME  "mlugwiri"
-#define IO_KEY       "aio_lfZp03yxtENPMmjCruzsnQZSxK6b"
+#define IO_USERNAME  "**********"
+#define IO_KEY       "**************************"
 
 WiFiClient client;
 // Define MQTT topics
